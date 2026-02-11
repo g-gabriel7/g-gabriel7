@@ -2,12 +2,15 @@
 
 <!--
 **g-gabriel7/g-gabriel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">🚀 Sobre mim</h1>
+###
 
 - 🏫 Estudante da graduação sistemas para internet na Universidade Estdual do Piauí. 
 - 💻 Estudante e entusiasta de cibersegurança.
 - 📚 Sempre aprendendo novas tecnologias.
 - 🎯 Interesses: defesa cibernética, automação e otimização de processos.
 
+### 
 <!--PACMAN--!>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
